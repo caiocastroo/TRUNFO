@@ -1,0 +1,13 @@
+{
+    "name": "TRUNFO",
+    "start_url": "/TRUNFO",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img/ff.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
